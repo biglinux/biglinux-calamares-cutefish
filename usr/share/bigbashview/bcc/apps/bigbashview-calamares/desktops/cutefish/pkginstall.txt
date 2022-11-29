@@ -1,4 +1,5 @@
 cutefish
+biglinux-skel-cutefish
 sddm
 sddm-xorg-failsafe
 sddm-theme-biglinux
