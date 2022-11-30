@@ -3,7 +3,7 @@
 pkgname=biglinux-calamares-cutefish
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
-pkgdesc="Calamares configs for BigLinux CuteFish"
+pkgdesc="Calamares configs for BigLinux Community CuteFish"
 arch=('any')
 url="https://github.com/biglinux/$pkgname"
 license=('GPL3')
