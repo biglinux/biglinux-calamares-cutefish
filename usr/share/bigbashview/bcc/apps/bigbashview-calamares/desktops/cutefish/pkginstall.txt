@@ -15,5 +15,7 @@ biglinux-skel-cutefish
 sddm
 sddm-xorg-failsafe
 sddm-theme-biglinux
+plasma-framework
+plasma-workspace
 libpamac-flatpak-plugin
 brave-browser
